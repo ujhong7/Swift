@@ -3,4 +3,8 @@
 ##  🔥Day1 조건문
 <img width="531" alt="스크린샷 2022-12-02 오전 10 07 05" src="https://user-images.githubusercontent.com/108393988/205191888-c89a40a8-42c6-42ad-ba51-c20a01191515.png">
 
+##  🔥Day2 foreach 반복문
+<img width="386" alt="스크린샷 2022-12-03 오후 12 20 21" src="https://user-images.githubusercontent.com/108393988/205419998-b5cf872a-131b-4ce6-b1c0-f8d9c0933b23.png">
+
+
 
