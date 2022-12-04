@@ -6,5 +6,6 @@
 ##  🔥Day2 foreach 반복문
 <img width="386" alt="스크린샷 2022-12-03 오후 12 20 21" src="https://user-images.githubusercontent.com/108393988/205419998-b5cf872a-131b-4ce6-b1c0-f8d9c0933b23.png">
 
+## 🔥Day3 enum 케이스 나누기
 
 
