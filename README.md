@@ -7,5 +7,8 @@
 <img width="386" alt="스크린샷 2022-12-03 오후 12 20 21" src="https://user-images.githubusercontent.com/108393988/205419998-b5cf872a-131b-4ce6-b1c0-f8d9c0933b23.png">
 
 ## 🔥Day3 enum 케이스 나누기
+<img width="440" alt="스크린샷 2022-12-05 오후 12 01 21" src="https://user-images.githubusercontent.com/108393988/205542535-388fed01-dd1d-45a1-a526-39ad0b0bcb3d.png">
 
+## 🔥Day4 For 반복문
+<img width="440" alt="스크린샷 2022-12-05 오후 12 12 28" src="https://user-images.githubusercontent.com/108393988/205542374-075288e1-4b09-41a7-9f43-270d662bb42c.png">
 
