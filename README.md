@@ -13,3 +13,4 @@
 <img width="440" alt="스크린샷 2022-12-05 오후 12 12 28" src="https://user-images.githubusercontent.com/108393988/205542374-075288e1-4b09-41a7-9f43-270d662bb42c.png">
 
 ## 🔥Day5 Unwrapp 옵셔널변수
+<img width="519" alt="스크린샷 2022-12-06 오후 11 57 09" src="https://user-images.githubusercontent.com/108393988/205946282-245f23a5-e049-4280-b6cf-538723ec20f6.png">
