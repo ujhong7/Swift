@@ -15,3 +15,7 @@
 ## 🔥Day5 Unwrapp 옵셔널변수
 <img width="519" alt="스크린샷 2022-12-06 오후 11 57 09" src="https://user-images.githubusercontent.com/108393988/205946282-245f23a5-e049-4280-b6cf-538723ec20f6.png">
 <img width="443" alt="스크린샷 2022-12-07 오전 12 20 16" src="https://user-images.githubusercontent.com/108393988/205951692-e9449a4b-96f8-46f1-b7c9-46c405944fe7.png">
+
+## 🔥Day6 Struct vs Class
+<img width="556" alt="스크린샷 2022-12-07 오후 10 58 57" src="https://user-images.githubusercontent.com/108393988/206198579-b5940541-36c9-4eb3-9710-63311539cca0.png">
+<img width="562" alt="스크린샷 2022-12-07 오후 10 57 46" src="https://user-images.githubusercontent.com/108393988/206198645-c55fac4c-29da-4461-a195-d920bbd9bc29.png">
