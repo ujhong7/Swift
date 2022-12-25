@@ -22,3 +22,6 @@
 
 ## 🔥Day7 프로퍼티 옵저버
 <img width="587" alt="스크린샷 2022-12-08 오후 11 39 02" src="https://user-images.githubusercontent.com/108393988/206475320-8805610d-9643-4bb8-9e77-a12e660ee5a3.png">
+
+## 🔥Day8 함수 매개변수 이름
+<img width="502" alt="스크린샷 2022-12-25 오후 9 40 39" src="https://user-images.githubusercontent.com/108393988/209468237-f142c8cf-3f16-4d81-b71e-3f933809c555.png">
