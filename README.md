@@ -25,3 +25,6 @@
 
 ## 🔥Day8 함수 매개변수 이름
 <img width="502" alt="스크린샷 2022-12-25 오후 9 40 39" src="https://user-images.githubusercontent.com/108393988/209468237-f142c8cf-3f16-4d81-b71e-3f933809c555.png">
+
+## 🔥Day9 제네릭
+<img width="639" alt="스크린샷 2022-12-26 오전 12 33 54" src="https://user-images.githubusercontent.com/108393988/209473959-d70fd5bc-e655-4946-9a2f-884cc4d76f27.png">
