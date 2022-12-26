@@ -28,3 +28,6 @@
 
 ## 🔥Day9 제네릭
 <img width="639" alt="스크린샷 2022-12-26 오전 12 33 54" src="https://user-images.githubusercontent.com/108393988/209473959-d70fd5bc-e655-4946-9a2f-884cc4d76f27.png">
+
+## 🔥Day10 클로저
+<img width="432" alt="스크린샷 2022-12-26 오후 11 51 58" src="https://user-images.githubusercontent.com/108393988/209560754-6b35e852-d61c-4a47-83a5-4b0b456ed4f3.png">
