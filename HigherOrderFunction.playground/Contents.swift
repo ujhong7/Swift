@@ -172,3 +172,7 @@ newStringArray = stringArray.filter { $0 != nil }.map { $0! }
 print(newStringArray) // ["A", "B", "C"]
 
 
+
+// 
+
+
