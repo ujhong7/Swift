@@ -102,13 +102,11 @@ print(resultSum) // 45
 // ====================================================
 
 
-// map / filter / reduece 의 활용
+// ⭐️ map / filter / reduece 의 활용
 
 numbersArray = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
 // 위의 배열 중에, 홀수만 제곱해서, 그 숫자를 다 더한 값은?
-
-
 var newResult = numbersArray
                         .filter { $0 % 2 != 0 }
                         .map { $0 * $0 }
@@ -118,3 +116,59 @@ print(newResult)
 
 
 // 1, 9, 25, 49, 81 ===> 165
+
+
+
+// ====================================================
+// ====================================================
+
+
+// ⭐️ forEach 함수
+
+// - 기존 배열 등의 각 아이템을 활용해서
+//   각 아이템별로 특정 작업(작업 방식은 클로저가 제공)을 실행
+// - (각 아이템을 활용해서 각각 특정 작업을 실행할때 사용)
+
+let immutableArray = [1, 2, 3, 4, 5]
+
+
+immutableArray.forEach { num in
+    print(num)
+}
+
+immutableArray.forEach { print("숫자: \($0)") }
+
+// 숫자: 1
+// 숫자: 2
+// 숫자: 3
+// 숫자: 4
+// 숫자: 5
+
+// ====================================================
+
+// ⭐️ compactMap 함수
+
+// - 기존 배열 등의 각 아이템을 새롭게 매핑해서(매핑방식은 클로저가 제공)
+//   변형하되, 옵셔널 요소는 제거하고, 새로운 배열을 리턴
+// - (map + 옵셔널제거)
+// - 옵셔널은 빼고, 컴팩트(compact)하게
+// - (옵셔널 바인딩의 기능까지 내장)
+
+let stringArray: [String?] = ["A", nil, "B", nil, "C"]
+var newStringArray = stringArray.compactMap { $0 }
+print(newStringArray) // ["A", "B", "C"]
+
+
+let numberss = [-2, -1, 0, 1, 2]
+var positiveNumbers = numberss.compactMap { $0 >= 0 ? $0 : nil }
+
+print(positiveNumbers) // [0, 1, 2]
+
+// 사실 이런 경우는 filter로 가능
+//numbers.filter { $0 >= 0 }
+
+// compactMap은 아래와 같은 방식으로도 구현 가능
+newStringArray = stringArray.filter { $0 != nil }.map { $0! }
+print(newStringArray) // ["A", "B", "C"]
+
+
