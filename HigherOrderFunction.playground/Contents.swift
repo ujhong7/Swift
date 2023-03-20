@@ -173,6 +173,4 @@ print(newStringArray) // ["A", "B", "C"]
 
 
 
-// 
-
 
