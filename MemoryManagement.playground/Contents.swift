@@ -262,3 +262,6 @@ gildong1 = nil
 bori1?.owner = nil      // 에러 발생하지 않게 하려면, nil로 재설정 필요 ⭐️
 bori1?.owner
 
+
+//
+//
