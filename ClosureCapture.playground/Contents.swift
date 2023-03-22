@@ -25,6 +25,12 @@ class Dog{
         DispatchQueue.global().async{
             print("나의 이름은 \(self.name)입니다.")
         }
+        
+        DispatchQueue.global().async { [self] in
+            print("나의 이름은 \(name)입니다.")
+        }
+        
+        
     }
 }
 
