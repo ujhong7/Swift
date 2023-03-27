@@ -1,6 +1,6 @@
 import UIKit
 
-var greeting = "Hello, playground"
+
 
 // Result타입
 
